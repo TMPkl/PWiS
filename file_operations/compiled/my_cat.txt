@@ -1,0 +1,9 @@
+to 
+jest 
+zawatosc 
+pliku
+rexample
+a to zawrtosc
+pliku 
+example
+
